@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "64ebf2ea"
+  },
+  "about.qmd": {
+    "about.html": "4efeec71"
+  },
+  "projects.qmd": {
+    "projects.html": "8810ddc3"
+  },
+  "projects/irish-housing.qmd": {
+    "irish-housing.html": "34db11bf"
+  },
+  "projects/population-trends.qmd": {
+    "population-trends.html": "f47fe4ed"
+  },
+  "projects/thesis.qmd": {
+    "thesis.html": "a2e9eb9c"
+  },
+  "resume.qmd": {
+    "resume.html": "bc7b5aab"
+  }
+}

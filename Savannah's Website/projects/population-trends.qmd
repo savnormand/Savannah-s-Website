@@ -1,0 +1,67 @@
+
+---
+title: "U.S. Population Trends"
+subtitle: "Maryland County Population and Demographic Analysis"
+---
+
+[← Back to Projects](../projects.qmd)
+
+## Project Overview
+
+This project examines population and
+demographic trends across counties in
+Maryland using R and data visualization.
+
+The analysis explores changes in county
+populations, population comparisons,
+and demographic composition.
+
+## Research Questions
+
+- How have Maryland county populations
+  changed between 2020 and 2025?
+
+- How do population sizes compare
+  across Maryland counties?
+
+- How does demographic composition
+  differ across counties?
+
+## Data and Methods
+
+This project uses county-level population
+and demographic data analyzed and
+visualized using R.
+
+**Tools Used:**
+
+- R
+- ggplot2
+- tidyverse
+- R Markdown
+- Quarto
+
+## Interactive Data Visualizations
+
+The report below contains my Maryland
+county population visualizations
+and accompanying reflection.
+
+[Open Full HTML Report](maryland-population-report.html){.btn .btn-primary target="_blank"}
+
+::: {#population-report}
+<iframe
+  src="maryland-population-report.html"
+  width="100%"
+  height="800"
+  title="Maryland County Population Trends Report"
+  style="border: 1px solid #E1E5EA; border-radius: 8px;">
+</iframe>
+:::
+
+## Project Reflection
+
+My full data visualization report
+includes an accompanying reflection
+on the findings, design decisions,
+and interpretation of the graphs.

@@ -1,0 +1,68 @@
+---
+title: "Home"
+title-block-banner: false
+---
+
+::: hero
+**PUBLIC POLICY \| RESEARCH \| DATA ANALYSIS**
+
+# Hi, I'm Savannah.
+
+I'm a Master of Public Policy student at the University of Virginia's Frank Batten School of Leadership and Public Policy.
+
+My work focuses on evidence-based policymaking, housing policy, and quantitative research. I am passionate about using research and data to better understand complex policy challenges and develop meaningful solutions.
+
+[Explore My Work](projects.qmd){.btn .btn-primary}
+
+[About Me](about.qmd){.btn .btn-outline-primary}
+:::
+
+:::::::::::: home-section
+## Areas of Focus
+
+::::::::::: grid
+:::: {.g-col-12 .g-col-md-6}
+::: focus-card
+### Policy Research
+
+Exploring housing policy, legislative reform, and the development of effective public policy.
+:::
+::::
+
+:::: {.g-col-12 .g-col-md-6}
+::: focus-card
+### Data Analysis
+
+Using R, Stata, and causal inference methods to evaluate programs and communicate results.
+:::
+::::
+
+:::: {.g-col-12 .g-col-md-6}
+::: focus-card
+### Professional Experience
+
+Experience supporting legislative research and policy development in Ireland and the United States.
+:::
+::::
+
+:::: {.g-col-12 .g-col-md-6}
+::: focus-card
+### Selected Projects
+
+A collection of policy memoranda, research, and data visualization projects.
+:::
+::::
+:::::::::::
+::::::::::::
+
+::: home-section
+## A Little About Me
+
+I am interested in the intersection of research, public service, and policymaking.
+
+My academic and professional experiences have allowed me to explore issues ranging from Irish social housing policy to congressional reform and impact evaluation.
+
+Through this website, I hope to share some of the projects, research, and experiences that have shaped my work.
+
+[Learn More About Me](about.qmd)
+:::

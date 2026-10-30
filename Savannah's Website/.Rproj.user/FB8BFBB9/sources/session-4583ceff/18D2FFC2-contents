@@ -1,0 +1,64 @@
+---
+title: "Projects"
+title-block-banner: false
+---
+
+::: projects-header
+# Selected Projects
+
+Welcome to my portfolio of research, policy analysis, and data visualization projects.
+
+My work explores questions surrounding public policy, political institutions, and social change through both quantitative and qualitative research methods.
+:::
+
+:::::::::: projects-section
+::::::::: grid
+:::: {.g-col-12 .g-col-md-6}
+::: project-card
+**POLICY RESEARCH**{.project-category}
+
+### Irish Social Housing Policy
+
+An examination of housing affordability, institutional barriers, and social housing provision in Ireland.
+
+Drawing on my experience working in the Irish Parliament, this research explores the structural challenges affecting housing accessibility and considers alternative approaches to social housing provision.
+
+**Research Areas:** Housing Policy, Public Administration, Comparative Policy
+
+[View Irish Housing Project](projects/irish-housing.qmd)
+:::
+::::
+
+:::: {.g-col-12 .g-col-md-6}
+::: project-card
+**DATA VISUALIZATION**{.project-category}
+
+### U.S. Population Trends
+
+An exploration of county-level population and demographic changes in the United States.
+
+Using R and ggplot2, this project visualizes population trends and demographic characteristics to better understand changes across communities.
+
+**Tools:** R, ggplot2, Data Visualization
+
+[View Population Trends Project](projects/population-trends.qmd)
+:::
+::::
+
+:::: {.g-col-12 .g-col-md-6}
+::: project-card
+**UNDERGRADUATE RESEARCH**{.project-category}
+
+### Undergraduate Thesis: Political and Social Thought
+
+An independent undergraduate research project completed through the Political and Social Thought program at the University of Virginia.
+
+This project reflects my interest in political theory, social questions, and interdisciplinary scholarship.
+
+**Research Areas:** Political Theory, Social Thought, Interdisciplinary Research
+
+[View Undergraduate Thesis](projects/thesis.qmd)
+:::
+::::
+:::::::::
+::::::::::
